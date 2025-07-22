@@ -31,6 +31,8 @@ Profile README | GSSoC'25 Contributor &amp; Flutter Learner
 
 ### 📊 GitHub Stats
 ![Srushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrushtiMH&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiMH&layout=compact&theme=radical)
+
 
 ---
 
