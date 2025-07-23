@@ -19,7 +19,8 @@ Profile README | GSSoC'25 Contributor &amp; Flutter Learner
 - 👩‍💻 Contributor at GSSoC 2025  
 - 🌟 Actively exploring beginner-friendly repositories  
 - 🚀 Focused on learning by doing and collaborating with the community
-
+![GSSoC Badge](https://raw.githubusercontent.com/SrushtiMH/Srushti-M-H/refs/heads/main/Contributor's%20badge.jpg)
+![GSSoC ID card](
 ---
 
 ### 🎯 2025 Goals
